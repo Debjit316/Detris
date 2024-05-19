@@ -1,0 +1,1 @@
+java -jar simpleTetris-main.jar
